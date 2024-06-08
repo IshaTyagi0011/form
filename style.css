@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(195, 149, 237);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+        width: 500px;
+        height: 600px;
+        border: 1px solid black;
+        padding: 10px;
+        margin: 10px;
+         background-color: rgb(219, 172, 239);
+        text-align: center;
+        border-radius: 5px;
+        border-width: 5px;
+        }
+    button{
+    color: rgb(1, 1, 8);
+    background-color: rgb(75, 75, 181);
+}
